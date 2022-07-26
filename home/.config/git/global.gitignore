@@ -1,0 +1,11 @@
+.*swp
+.*lock
+*~
+.vimrc
+
+# Cambios de entorno locales al directorio (e.g. para agregar /bin al $PATH)
+.envrc
+
+# Archivos de TODO que dejo por ahí
+TODO
+TODO.mdwn
