@@ -1,3 +1,6 @@
 [submodule ".config/nvim/colors/vim-monokai"]
 	path = home/.config/nvim/colors/vim-monokai
 	url = https://github.com/sickill/vim-monokai.git
+[submodule "home/.config/kitty/kitty-themes"]
+	path = home/.config/kitty/kitty-themes
+	url = https://github.com/dexpota/kitty-themes.git
